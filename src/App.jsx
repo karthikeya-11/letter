@@ -253,7 +253,7 @@ const Card = () => {
                 <span className="text-cyan-500 animate-pulse">.</span>
                 </h1>
                 <p className="text-lg text-slate-400 max-w-2xl leading-relaxed">
-                Tomorrow quietly marks <span className="text-white font-semibold border-b border-cyan-500/50">one year</span> since I started my internship at <span className="text-cyan-400 font-semibold">Tech.at.Core</span>. I couldn't let it pass like a normal day.
+                Today quietly marks <span className="text-white font-semibold border-b border-cyan-500/50">one year</span> since I started my internship at <span className="text-cyan-400 font-semibold">Tech.at.Core</span>. I couldn't let it pass like a normal day.
                 </p>
             </div>
 
