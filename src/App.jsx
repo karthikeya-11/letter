@@ -358,7 +358,7 @@ const Card = () => {
                 <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent translate-x-[-100%] group-hover:animate-shimmer" />
                 
                 <div className="flex flex-col items-start leading-none">
-                    <span className="text-[10px] opacity-70 font-mono font-normal mb-1">FINAL STEP</span>
+                    <span className="text-[10px] opacity-70 font-mono font-normal mb-1"></span>
                     <span>HANDSHAKE ..?</span>
                 </div>
                 <ArrowRight size={20} className="group-hover:translate-x-1 transition-transform" />
